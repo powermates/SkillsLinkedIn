@@ -1,0 +1,155 @@
+Skill;Ofertas;Subtipo;Tipo
+English;49105;Idioma;Idioma extranjero
+SQL;20416;BDD;Manejo de datos
+Java;16238;Lenguaje programación;Programación
+Python;15360;Lenguaje programación;Programación
+HTML;14960;Lenguaje web;Programación
+Javascript;14840;Lenguaje programación;Programación
+C++;13439;Lenguaje programación;Programación
+Spanish;13107;Idioma;Idioma extranjero
+CSS;12823;Lenguaje web;Programación
+Agile;11493;Metodología Agile;Gestión de proyectos
+Excel;5750;Ofimática;Manejo de datos
+Scrum;5507;Metodología PM;Gestión de proyectos
+SQL Server;5444;BDD;Manejo de datos
+Linux;5345;Sistema Operativo;Infrastructura
+.Net Framework;4808;Framework .NET;Programación
+Node.js;4706;Framework Javascript;Programación
+AngularJS;4349;Framework Javascript;Programación
+Mysql;4197;BDD;Manejo de datos
+French;4015;Idioma;Idioma extranjero
+Git;3756;Control de versiones;Gestión de proyectos
+PostgreSQL;3558;BDD;Manejo de datos
+C#;3534;Lenguaje programación;Programación
+Windows Server;3346;Sistema Operativo;Infrastructura
+Oracle Database;3322;BDD;Manejo de datos
+PHP;3314;Lenguaje programación;Programación
+ASP.Net;3254;Framework .NET;Programación
+AWS;3222;Cloud;Tecnologia Cloud
+Hibernate;3191;Framework Java;Programación
+MongoDB;2799;BDD;Manejo de datos
+Microsoft Azure;2782;Cloud;Tecnologia Cloud
+Microsoft Office;2710;Ofimática;Manejo de datos
+React.JS;2630;Framework Javascript;Programación
+Fluent english;2608;Inglés;Idioma extranjero
+German;2538;Idioma;Idioma extranjero
+DevOps;2527;DevOps;Devops
+B2;2468;Titulación;Idioma extranjero
+Jquery;2399;Framework Javascript;Programación
+C;2392;Lenguaje programación;Programación
+Jira;2370;Herramienta PM;Gestión de proyectos
+Kubernetes;2150;Cloud;Tecnologia Cloud
+Docker;2100;Cloud;Tecnologia Cloud
+C1;1990;Titulación;Idioma extranjero
+Microsoft Project;1935;Herramienta PM;Gestión de proyectos
+Spring;1907;Framework Java;Programación
+Swift developer;1781;Lenguaje programación;Programación
+Word;1672;Ofimática;Manejo de datos
+Typescript;1607;Lenguaje programación;Programación
+PowerPoint;1598;Ofimática;Manejo de datos
+Tableau;1523;BI;Manejo de datos
+Portuguese;1499;Idioma;Idioma extranjero
+Jenkins;1426;Herramienta Devops;Devops
+Italian;1205;Idioma;Idioma extranjero
+Bash;1189;Scripting Linux;Infrastructura
+GCP;1079;Cloud;Tecnologia Cloud
+Catalan;1073;Idioma;Idioma extranjero
+NoSQL;1047;BDD;Manejo de datos
+R;989;Lenguaje programación;Programación
+PowerBI;920;BI;Manejo de datos
+Hadoop;913;Cloud;Tecnologia Cloud
+Powershell;867;Scripting Windows;Infrastructura
+Vue.JS;862;Framework Javascript;Programación
+Dynamics;740;Ofimática;Manejo de datos
+Junit;687;Testing Java;Programación
+Spark;659;Lenguaje programación;Programación
+Selenium;651;Testing Java;Programación
+Ruby;644;Lenguaje programación;Programación
+Kanban;640;Metodología Agile;Gestión de proyectos
+VMWare;614;Cloud;Tecnologia Cloud
+Struts;587;Framework Java;Programación
+B1;573;Titulación;Idioma extranjero
+Kotlin;523;Lenguaje programación;Programación
+Confluence;521;Herramienta PM;Gestión de proyectos
+Perl;473;Lenguaje programación;Programación
+JSF;471;Framework Java;Programación
+Scala;471;Lenguaje programación;Programación
+Very good English;438;Inglés;Idioma extranjero
+Golang;400;Lenguaje programación;Programación
+C2;375;Titulación;Idioma extranjero
+.Net Core;373;Framework .NET;Programación
+Assembler;346;Lenguaje programación;Programación
+Business Objects;334;BI;Manejo de datos
+SAS;303;BI;Manejo de datos
+Unity;297;Framework .NET;Programación videojuegos
+Symfony;279;Framework PHP;Programación
+Django;274;Framework Python;Programación
+Codelgniter;267;Framework PHP;Programación
+DB2;259;BDD;Manejo de datos
+SQLite;244;BDD;Manejo de datos
+Proficient english;243;Inglés;Idioma extranjero
+PL/SQL;238;BDD;Manejo de datos
+Laravel;230;Framework PHP;Programación
+Keras;221;Ciencia de datos;Manejo de datos
+Numpy;208;Ciencia de datos;Manejo de datos
+Tensorflow;199;Ciencia de datos;Manejo de datos
+Euskera;191;Idioma;Idioma extranjero
+Qlikview;186;BI;Manejo de datos
+Flask;181;Framework Python;Programación
+Objetive-C;168;Lenguaje programación;Programación
+Bamboo;166;Herramienta Devops;Devops
+Databricks;163;Herramienta Spark;Programación
+Pandas;162;Ciencia de datos;Manejo de datos
+Advanced English;161;Inglés;Idioma extranjero
+Waterfall;157;Metodología PM;Gestión de proyectos
+Microstrategy;152;BI;Manejo de datos
+Looker;148;BI;Manejo de datos
+Design Sprint;144;Metodología PM;Gestión de proyectos
+Cognos;142;BI;Manejo de datos
+Chinese;136;Idioma;Idioma extranjero
+XP;136;Metodología PM;Gestión de proyectos
+Arabic;128;Idioma;Idioma extranjero
+Cobol;121;Lenguaje programación;Programación
+Trello;120;Herramienta PM;Gestión de proyectos
+Helm;116;Herramienta Devops;Devops
+Visual Basic.Net;109;Lenguaje programación;Programación
+3D Studio Max;107;Herramienta Animación 3D;Programación videojuegos
+Power Platform;90;Ofimática;Manejo de datos
+Unreal Engine;79;Framework C++;Programación videojuegos
+Pytorch;74;Ciencia de datos;Manejo de datos
+Japanese;67;Idioma;Idioma extranjero
+A1;63;Titulación;Idioma extranjero
+Maya;59;Herramienta Animación 3D;Programación videojuegos
+PySpark;58;Herramienta Spark;Programación
+QT;56;Framework C++;Programación
+Zend framework;51;Framework PHP;Programación
+Lua;48;Lenguaje programación;Programación
+Blender;44;Herramienta Animación 3D;Programación videojuegos
+Scikit-learn;43;Ciencia de datos;Manejo de datos
+Bootstrap.js;39;Framework Javascript;Programación
+Asana;38;Herramienta PM;Gestión de proyectos
+TestNG;38;Testing Java;Programación
+Ember.js;37;Framework Javascript;Programación
+D3;37;Framework Javascript;Manejo de datos
+Polymer;37;Framework Javascript;Programación
+Data Studio;35;BI;Manejo de datos
+Nunit;32;Testing Java;Programación
+Dash;31;Visualización Python;Programación
+A2;27;Titulación;Idioma extranjero
+Spotfire;26;BI;Manejo de datos
+Cinema 4d;26;Herramienta Animación 3D;Programación videojuegos
+Matplotlib;26;Visualización Python;Programación
+Galician;25;Idioma;Idioma extranjero
+Plotly;21;Visualización Python;Programación
+Korean;19;Idioma;Idioma extranjero
+Backbone.js;17;Framework Javascript;Programación
+Delphi;16;Lenguaje programación;Programación
+Seaborn;15;Visualización Python;Programación
+Mercurial;9;Control de versiones;Gestión de proyectos
+Shippable;8;Herramienta Devops;Devops
+Carto;7;BI;Manejo de datos
+Basecamp;7;Herramienta PM;Gestión de proyectos
+GTK;6;Framework C++;Programación
+Agile Inception;6;Metodología PM;Gestión de proyectos
+Bokeh;6;Visualización Python;Programación
+Klipfolio;2;BI;Manejo de datos
